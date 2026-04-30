@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "WardenSupreme",
             url: "https://github.com/nkoruts/warden-supreme-kmp-wrapper/releases/download/v0.2.0/WardenSupreme.xcframework.zip",
-            checksum: "27d0ce115ed60ecf3d83f76145ef469784fdde650e27deb51b73c43c360d8a7d"
+            checksum: "c73ed5469f34a56ece9dcd9d2c433025bc8ddefdc52273bf10e4ec019a3aebbf"
         )
     ]
 )
